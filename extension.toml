@@ -1,0 +1,7 @@
+id = "vscode-dark-modern-enhanced"
+name = "VSCode Dark Modern Enhanced (Darkened)"
+version = "1.0.1"
+schema_version = 1
+authors = ["kalutskii"]
+description = "A darkened version of the popular VSCode Dark Modern theme, providing a more immersive coding experience with deeper contrasts and enhanced readability."
+repository = "https://github.com/kalutskii/vscode-dark-modern-enhanced"
